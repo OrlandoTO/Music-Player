@@ -16,13 +16,13 @@ const SONGS = [
         title:'Lesfm'
     },
 
-    {
+    /*{
         id: crypto.randomUUID(),
         urlImg: './public/(TJOCSM)[Bedroom].jpg',
         urlAudio:'./public/(TJOCSM)[All_Themes].mp3',
         author:'Nathan Hanover',
         title:'TJOCSM: Story Mode[ALL THEMES]'
-    }
+    }*/
 
 ]
 let currentIndex = 0
